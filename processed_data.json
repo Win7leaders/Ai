@@ -1,0 +1,122 @@
+{
+    "original_text": "Lettre de Motivation Simple\n\nPherre Letetrere\n2A rue du Cet\n45000 Oridans\n06 06 06 06 06\npierre lafebvre@pnad.com\n\n[NOM DE LENTREPRISE;\n[ADRESSE DL VEN TREPRISE;\n\nA{UEU), le (OATE)\nObjet : Concidature ou poste de [nom du poste suquel tu pottules]\n\nMadame, Monseut,\n\nPar % buns te La presente e\u20ac du CV c-jomnt, je Lounaite airs soumatte mon profil et\nYous expamer toute ma motryaton pour exercer les fonct-ons de [empha pour \u2018quel tu\npostules - r\u00e9f | av semn de votre service de [sence pow kequei ty postules])\n\n \n\nLots de mes derneres exp\u00e9nences protessonne'les, fa travali\u00e9 pour difterentes\nentropies du secteur jsecteur ov secteurs dans Iesquets tu as trawal\u00e9), Co fai pu acqu\u00e9re\n#t c\u00e9veloppar de sobdes connassances en [mantionne les programmes ou .e comanes,\ndans lesquets tu a3 acquis des connassances]. entre autres, que yaimerars partager avec\nvous et continurr & approfondy au se:n Tune \u00e9quipe dyuamaue et suinutante.\n\n \n\n\u2018Au cours de ma cerdre exp\u00e9rence professionnelle a/cher (Gernuere entreprise das\nfequele ty as travelle] sm exalement cu Youeson de contnbuer au developement de\nattt\u00e9rents prowts, raison pour laquele le fat ce continues & travailer au lancement de\nnouvelles Ki\u00e9cs el o'apprendre aux cOtes d'une nouve te dauipe me motrve \u00e9nor nement,\n\n \n\nJe sara cave) 08 vous rencontre: 2 \u201cAvenir pow pouvalr parler de votre entrepnse et\ndela mason propos\u00e9e.\n\nEn vous remerciant pour le temps que vous aurer bien voulu accorder 8 ma lettre, je\nvous pre de bien voulow agr\u00e9er, madame, monweut, mes plus cordisles sahitations,\n\nISOM, PRENOM ET SIGNATURE!\n\nModeles4\u00a2 Cv\n\nwan reek de Oy eam\n\n \n\f",
+    "corrected_text": "Lettre de Motivation Simple pierre Letetrere la rue du Cet 45000 bridais 06 06 06 06 06 pierre lafebvre@pnad.com nom DE entreprise adresse DL en reprise A{UEU), le (OATE) Objet : candidature ou poste de nom du poste auquel tu postules madame Monseut, Par % bons te La pr\u00e9sente et du ce c-jomnt, je souhaite airs soumette mon profil et vous examen toute ma motryaton pour exercer les fonctions de [empha pour quel tu postules - r\u00e9 | a sein de votre service de agence pot lequel tu postules Lots de mes derniers exp\u00e9riences protessonne'les, fa travail pour diff\u00e9rentes entropies du secteur secteur on secteurs dans lesquels tu as trawal\u00e9), ce fait pu acqu\u00e9rez et d\u00e9velopper de soldes connaissances en mentionne les programmes ou de comanes, dans lesquels tu a acquis des connassances]. entre autres que aimerais partager avec vous et continuer & approfondi au sein une \u00e9quipe dyuamaue et suinutante. au cours de ma perdre exp\u00e9rience professionnelle archer (Gernuere entreprise pas lequel tu as travelle] se exactement tu ourson de continuer au d\u00e9veloppement de attt\u00e9rents prowts, raison pour laquelle le fat ce continues & travailler au lancement de nouvelles kilos le apprendre aux cOtes dune nouvel te \u00e9quipe me motive t\u00e9nor nement, Je sera cave 08 vous rencontrer 2 avenir pot pouvoir parler de votre entrepose et cela maison propos\u00e9e En vous remerciant pour le temps que vous aurez bien voulu accorder 8 ma lettre je vous p\u00e8re de bien voulez agr\u00e9er madame monweut, mes plus cordiales sahitations, isol\u00e9 pr\u00e9nom ET signature Modeles4\u00a2 ce an rien de on eau",
+    "named_entities": [
+        {
+            "text": "Lettre de Motivation Simple",
+            "label": "MISC"
+        },
+        {
+            "text": "rue du Cet",
+            "label": "LOC"
+        },
+        {
+            "text": "Oridans",
+            "label": "MISC"
+        },
+        {
+            "text": "ADRESSE",
+            "label": "MISC"
+        },
+        {
+            "text": "OATE",
+            "label": "ORG"
+        },
+        {
+            "text": "Concidature",
+            "label": "PER"
+        },
+        {
+            "text": "Madame",
+            "label": "PER"
+        },
+        {
+            "text": "Monseut",
+            "label": "PER"
+        },
+        {
+            "text": "CV c-jomnt",
+            "label": "LOC"
+        },
+        {
+            "text": "Lounaite airs soumatte mon profil et\nYous",
+            "label": "MISC"
+        },
+        {
+            "text": "motryaton",
+            "label": "PER"
+        },
+        {
+            "text": "pow kequei",
+            "label": "PER"
+        },
+        {
+            "text": "Iesquets",
+            "label": "LOC"
+        },
+        {
+            "text": "Co fai pu acqu\u00e9re\n#",
+            "label": "MISC"
+        },
+        {
+            "text": "a3",
+            "label": "LOC"
+        },
+        {
+            "text": "yaimerars",
+            "label": "MISC"
+        },
+        {
+            "text": "Tune",
+            "label": "MISC"
+        },
+        {
+            "text": "Gernuere entreprise das\nfequele ty as travelle",
+            "label": "MISC"
+        },
+        {
+            "text": "Youeson",
+            "label": "PER"
+        },
+        {
+            "text": "fat",
+            "label": "ORG"
+        },
+        {
+            "text": "Ki\u00e9cs el",
+            "label": "MISC"
+        },
+        {
+            "text": "cOtes",
+            "label": "MISC"
+        },
+        {
+            "text": "Avenir pow",
+            "label": "ORG"
+        },
+        {
+            "text": "madame",
+            "label": "PER"
+        },
+        {
+            "text": "ISOM",
+            "label": "MISC"
+        },
+        {
+            "text": "PRENOM",
+            "label": "MISC"
+        },
+        {
+            "text": "SIGNATURE",
+            "label": "LOC"
+        },
+        {
+            "text": "Modeles4\u00a2",
+            "label": "LOC"
+        },
+        {
+            "text": "Oy eam\n\n \n\f",
+            "label": "ORG"
+        }
+    ]
+}
